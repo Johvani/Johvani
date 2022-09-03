@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Johvani
 - 👀
-- 🌱 I’m currently learning Embedded Systems, Data Analysis with Python, and C.
+- 🌱 I’m currently learning Embedded Systems, C++, and C.
 
 <!---
 Johvani/Johvani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
